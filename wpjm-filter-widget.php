@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Job Manager Filter Widget
-Plugin URI: http://amplebrain.com/plugins/wpjm-filter-widget/
+Plugin URI: http://amplebrain.com/plugins/wp-job-manager-filter-widget/
 Description: WP Job Manager Filter widget allows job filter through Keyword, Location, Featured, Filled, Job Type and Category.
 Version: 1.0
 Author: <a href="mailto:tusharkapdi@gmail.com">Tushar Kapdi</a>
