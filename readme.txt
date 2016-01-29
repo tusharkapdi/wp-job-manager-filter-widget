@@ -2,7 +2,7 @@
 
 Contributors: tusharkapdi
 Donate link: http://amplebrain.com/donate/
-Tags: wp job manager, wp job manager filter, wp job manager widget, filter, filter jobs, sort, job sorts, related jobs, keyword filter, location filter, job type filter, category filter, filled, featured, limit job filter, sidebar jobs
+Tags: wp job manager, wp job manager filter, wp job manager widget, filter, filter jobs, sort, sort job, related jobs, keyword filter, location filter, job type filter, category filter, filled, featured, limit job filter, sidebar jobs, job widget, job filter widget
 Requires at least: 3.6
 Tested up to: 4.4.1
 Stable tag: 1.0
@@ -30,9 +30,9 @@ WP Job Manager Filter widget where you can sort/filter jobs by Keyword, Location
 
 = More Information =
 
-* For help use [wordpress.org](http://wordpress.org/support/plugin/wpjm-filter-widget/)
-* Fork or contribute on [Github](https://github.com/tusharkapdi/wpjm-filter-widget/)
-* Visit [our website](http://amplebrain.com/plugins/wpjm-filter-widget/) for more
+* For help use [wordpress.org](http://wordpress.org/support/plugin/wp-job-manager-filter-widget/)
+* Fork or contribute on [Github](https://github.com/tusharkapdi/wp-job-manager-filter-widget/)
+* Visit [our website](http://amplebrain.com/plugins/wp-job-manager-filter-widget/) for more
 * Follow me on [Twitter](http://twitter.com/tusharkapdi/)
 * View my other [WordPress Plugins](https://profiles.wordpress.org/tusharkapdi/)
 
@@ -44,7 +44,7 @@ Did you enjoy this plugin? Please [donate to support ongoing development](http:/
 == Installation ==
 
 1. Download and extract the zip archive
-2. Upload 'wpjm-filter-widget' folder to '/wp-content/plugins/'
+2. Upload 'wp-job-manager-filter-widget' folder to '/wp-content/plugins/'
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Add the widget to a sidebar and configure the options as desired
 
